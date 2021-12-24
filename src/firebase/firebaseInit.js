@@ -4,6 +4,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
+    //LJDB
     apiKey: "AIzaSyCTioxH6vwzcFZEV0nsmOlRQpvl2IT2FBE",
     authDomain: "invoice-40706.firebaseapp.com",
     projectId: "invoice-40706",
