@@ -4,14 +4,12 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-    //LJDB
-    apiKey: "AIzaSyCTioxH6vwzcFZEV0nsmOlRQpvl2IT2FBE",
-    authDomain: "invoice-40706.firebaseapp.com",
-    projectId: "invoice-40706",
-    storageBucket: "invoice-40706.appspot.com",
-    messagingSenderId: "122984197750",
-    appId: "1:122984197750:web:ec224a7c5df23933327957"
-
+    apiKey: "AIzaSyBDhPKWqnzE6p7jdj38Ss2divhqsNgDimw",
+    authDomain: "invoiceapplication-b48bd.firebaseapp.com",
+    projectId: "invoiceapplication-b48bd",
+    storageBucket: "invoiceapplication-b48bd.appspot.com",
+    messagingSenderId: "489930430008",
+    appId: "1:489930430008:web:843cb1bae9dab136bf38cd"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
